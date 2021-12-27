@@ -19,7 +19,9 @@ navbar-links:
     - Questions To Ask Yourself: "questions-to-ask-yourself"
     - How To Leave Gracefully: "how-to-leave-gracefully"
     - Finding Healing After Leaving: "finding-healing-after-leaving"
-  About Gracepoint: "about-gracepoint"
+  About Gracepoint:
+    - What is Gracepoint?: "what-is-gracepoint"
+    - History of Gracepoint: "history-of-gracepoint"
   Get Connected: "get-connected"
 
 # --- Logo --- #

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: After Gracepoint
 subtitle:
 cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
