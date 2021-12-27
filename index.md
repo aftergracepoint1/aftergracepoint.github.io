@@ -3,6 +3,8 @@ layout: page
 cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
 
+---
+
 ### Who is this site for?
 
 This site is for anyone seeking to learn more about Gracepoint.
