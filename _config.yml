@@ -43,6 +43,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  reddit: /r/GracepointChurch
+  discord: shUNTVqKp8
 #  email: "someone@example.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
@@ -51,7 +53,6 @@ social-network-links:
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
-reddit: /r/GracepointChurch
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -67,7 +68,6 @@ reddit: /r/GracepointChurch
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-discord: shUNTVqKp8
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
