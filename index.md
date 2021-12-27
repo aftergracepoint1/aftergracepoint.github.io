@@ -1,7 +1,5 @@
 ---
 layout: page
-title: After Gracepoint
-subtitle: 
 ---
 
 ### Who is this site for?
