@@ -1,5 +1,8 @@
 ---
 layout: page
+title:
+subtitle:
+cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
 
 ### Who is this site for?
