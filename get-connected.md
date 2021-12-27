@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Get Connected
-subtitle: 
 cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
+
+# Get Connected
 
 Whether you’re just checking out Gracepoint, been a member for years, or have already left, all are welcomed! 
 

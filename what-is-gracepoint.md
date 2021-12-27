@@ -1,9 +1,9 @@
 ---
 layout: page
-title: What Is Gracepoint?
-subtitle: 
 cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
+
+# What is Gracepoint?
 
 Gracepoint is a Southern Baptist church that started in Berkeley, California in 2006 and has since expanded to ~100 sites across the United States. Gracepoint primarily plants churches in college towns. 
 

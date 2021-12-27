@@ -1,9 +1,9 @@
 ---
 layout: page
-title: History of Gracepoint
-subtitle: 
 cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
+
+# History of Gracepoint
 
 *This history is provided to give context when understanding how the church came to be what it is today. We have done our best to ensure this article's correctness, but there are certain parts that still need further corroboration. Please contact the team via Discord or reddit to help contribute with any corrections or additions.*
 *Special thanks to John Kim (pseudonym) as the primary contributor for this page.*

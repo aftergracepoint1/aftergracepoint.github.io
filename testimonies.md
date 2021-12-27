@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Testimonies
 cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
+
+# Testimonies
 
 The best place to read testimonies and share your own is on the reddit community at [/r/GracepointChurch](https://www.reddit.com/r/GracepointChurch/wiki/testimonies)
 
