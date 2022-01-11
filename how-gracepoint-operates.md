@@ -13,7 +13,7 @@ What makes Gracepoint's spiritual abuse hard to pin down is that it is often cou
 Gracepoint has a highly structured approach to discipleship. Each year, from freshman year through senior year, college students follow a fairly set "track" of maturation. This allows entire classes of young men and women to be discipled together, which is remarkably efficient.
 
 Courtesy of a former staff member, a handout describing this approach in detail can be found here: 
-![College Ministry Growth Goals](https://i.imgur.com/Sd1wR5t.jpg)
+[College Ministry Growth Goals](https://i.imgur.com/Sd1wR5t.jpg)
 
 The flip side of this cookie-cutter approach is that anyone who doesn't fit in, is forced to fit.
 
