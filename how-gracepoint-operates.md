@@ -8,11 +8,12 @@ This page attempts to give some real-world examples of Gracepoint's inner workin
 
 **Outline**
 1. [How Gracepoint Discipleship Begins](#how-gracepoint-discipleship-begins)
+     - [What are these courses?](#what-are-these-courses)
 2. [How Gracepoint Discipleship Continues](#how-gracepoint-discipleship-continues)
 3. [How Gracepoint Views Itself](#how-gracepoint-views-itself)
 4. [How Gracepoint Views Others](#how-gracepoint-views-others)
 
-### How Gracepoint Discipleship Begins
+# How Gracepoint Discipleship Begins
 
 Gracepoint has a structured approach to discipleship. From freshman to senior, college students follow a fairly set "track" of spiritual growth. This allows entire classes of young men and women to be discipled together, which is remarkably efficient.
 
@@ -25,7 +26,8 @@ Every new member takes the following courses, in-order:
 3. Church 101
 4. Survival Kit 2
 
-**What are these courses?**
+### What are these courses?
+
 - Each course takes about a semester and involves readings and homework.
 - Course 101 is a basic introduction to Christianity, drawing a lot of material from books like Mere Christianity (C.S. Lewis) and Basic Christianity (John Stott). 
 - Survival Kit 1, Church 101, and Survival Kit 2 are more application-focused and go into detail about what healthy church life & (non-romantic) relationships should look like
