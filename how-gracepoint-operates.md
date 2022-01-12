@@ -6,8 +6,7 @@ cover-img: https://i.imgur.com/34z8VWJ.jpg
 
 This page attempts to give some real-world examples of Gracepoint's inner workings, with primary sources from which you may draw your own conclusions.
 
-**Contents**
-
+**Outline**
 1. [How Gracepoint Discipleship Begins](#how-gracepoint-discipleship-begins)
 2. [How Gracepoint Discipleship Continues](#how-gracepoint-discipleship-continues)
 3. [How Gracepoint Views Itself](#how-gracepoint-views-itself)
@@ -93,7 +92,7 @@ Examples of questionable behavior include:
 - not having roommates
 - dating anyone who isn't a member of Gracepoint
 
-**”There’s no formula”**
+**"There’s no formula"**
 
 In an interview with the Southern Baptist Convention (SBC), Pastor Ed describes his ministry as "very organic" and "there’s no formula." This appears at odds with the strong structure outlined above, but we will leave it to the reader to decide if those descriptions are accurate.
 
@@ -114,6 +113,7 @@ Ironically, Gracepoint leadership, as much as it prides itself in its strong sta
 People looking to join Gracepoint typically fall into two groups: 
 - A) Students (usually college freshmen, but also new grad students)
 - B) Everyone else
+
 If you fall into group A, everyone is astonishingly friendly and accommodating to your every need. It's like people see you for who you are. However, behind the scenes, you are seen as immature, lost and in need of a strong guiding hand. In Gracepoint's [own words](https://i.imgur.com/9zq4dZf.png), "we are dealing with an emotionally fragile generation who have hardly ever been corrected by their parents."
 
 If you fall into group B, you are gently separated from everyone else and recommended to find a different church. Gracepoint is, by design, very focused on the college demographic - specifically from freshman year, as outlined in the College Ministry Goals document. By specializing, the church avoids spreading itself too thin. The result is a highly efficient church. We leave it up to the reader to decide if it is a healthy model.
