@@ -44,9 +44,9 @@ The catch is that you are *required* to send your reflections to your designated
 
 ### How Gracepoint Views Itself
 
-Gracepoint is aware of the backlash it receives. In fact, it has extensive documentation on responses to common questions.
+Gracepoint is aware of the backlash it receives for its practices. In fact, it has extensive documentation on responses to common questions.
 
-[doc]
+[Gracepoint's Answers to Commonly Asked Questions](https://drive.google.com/file/d/10zG4nH7vgYMdCqzHCA6xx6EnMLSV-IFk/view?usp=sharing)
 
 This isn't the place for a line-by-line analysis, so we'll try to summarize a few key takeaways:
 - It's interesting that this document even exists. Why does a church need 11 pages to tell people "we aren't the bad guys?"
@@ -73,6 +73,10 @@ This isn't the place for a line-by-line analysis, so we'll try to summarize a fe
 		- dating anyone who isn't a member of Gracepoint
 
 Ironically, in an interview posted on [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices), Pastor Ed claims his ministry is "very organic" and "there’s no formula."
+
+Even more ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a few rules itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out these [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg) to its members. Interestingly, they were signed by an orthopedist, and the email was linked to Steve Suh (a Gracepoint ministry lead, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ. "Everything is permissible" indeed.
+
+https://i.imgur.com/DbqKVKI.jpg
 
 ### How Gracepoint Views Outsiders
 
