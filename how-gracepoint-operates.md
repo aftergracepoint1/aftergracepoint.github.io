@@ -8,10 +8,18 @@ This page attempts to give some real-world examples of Gracepoint's inner workin
 
 **Outline**
 1. [How Gracepoint Discipleship Begins](#how-gracepoint-discipleship-begins)
-     - [What are these courses?](#what-are-these-courses)
+     - [What are the courses?](#what-are-the-courses)
+	 - [Why are the courses important?](#why-are-the-courses-important)
 2. [How Gracepoint Discipleship Continues](#how-gracepoint-discipleship-continues)
+     - [Members Bible Study (MBS)](#members-bible-study-(mbs))
+	 - [Weekly Reflections (WR)](#weekly-reflections-(wr))
 3. [How Gracepoint Views Itself](#how-gracepoint-views-itself)
+	 - [Takeaway #1: Strawman arguments dodge actual questions](#takeaway-1-strawman-arguments-dodge-actual-questions)
+	 - [Takeaway #2: Misleading language shifts agency away from the church](#takeaway-2-misleading-language-shifts-agency-away-from-the-church)
+	 - [Takeaway #3: Things aren't as opt-in as they seem](#takeaway-3-things-arent-as-opt-in-as-they-seem)
 4. [How Gracepoint Views Others](#how-gracepoint-views-others)
+     - [How new attendees are seen](#how-new-attendees-are-seen)
+	 - [How other churches are seen](#how-other-churches-are-seen)
 
 # How Gracepoint Discipleship Begins
 
@@ -20,34 +28,31 @@ Gracepoint has a structured approach to discipleship. From freshman to senior, c
 > **Primary Source:
 [College Ministry Growth Goals](https://i.imgur.com/Sd1wR5t.jpg){:target="_blank"}**
 
-Every new member takes the following courses, in-order: 
-1. Course 101
-2. Survival Kit 1
-3. Church 101
-4. Survival Kit 2
-
-### What are these courses?
-
+### What are the courses?
+- Every new member takes the following courses, in-order: Course 101 --> Survival Kit 1 (SK1) --> Church 101 --> Survival Kit 2 (SK2)
 - Each course takes about a semester and involves readings and homework.
 - Course 101 is a basic introduction to Christianity, drawing a lot of material from books like Mere Christianity (C.S. Lewis) and Basic Christianity (John Stott). 
 - Survival Kit 1, Church 101, and Survival Kit 2 are more application-focused and go into detail about what healthy church life & (non-romantic) relationships should look like
 
-**Why are these courses important?**
-- Passing each of these courses requires you to not only *learn* Gracepoint's worldview, but also *affirm it as your own."
+### Why are the courses important?
+- Passing each of the courses requires you to not only *learn* Gracepoint's worldview, but also *affirm it as your own."
 - The final question of Course 101 asks whether you are ready to publicly accept Christ as your Lord and Savior. After answering ‘yes,’ you are celebrated with praise, flowers, and gifts.
 - Some church meetings & retreats require you to have passed all of the courses to attend
 - Disagreeing with the material is typically seen as being held back by fears or worldly desires, and is something to be prayed through
 
-### How Gracepoint Discipleship Continues
+# How Gracepoint Discipleship Continues
 
-**Members Bible Study (MBS):** MBS is a mandatory extra church service for members-only, led by Pastor Ed. The idea is that the public church service is geared towards seekers, while MBS preaches more advanced topics for members that might be misunderstood by the general public.
+### Members Bible Study (MBS)
+MBS is a mandatory extra church service for members-only, led by Pastor Ed. The idea is that the public church service is geared towards seekers, while MBS preaches more advanced topics for members that might be misunderstood by the general public.
 
 During this time, Pastor Ed is often looser with his words, sometimes letting offensive jokes or "un-PC" opinions slip through. For example, when explaining an illustration involving an electric circuit, he made a comment, "I'm explaining this because there are sisters in the room," to which the audience chuckled.
 
-**Weekly Reflections (WR):** In addition to your daily ~1 hour devotionals, you are required to write WR’s every Sunday. There are typically three sections:
+### Weekly Reflections (WR)
+In addition to your daily ~1 hour devotionals, you are required to write WR’s every Sunday. There are typically three sections:
 - How did the Word of God speak to you? (the sermon)
 - What are you thankful for?
 - What are you struggling with? (confess your sins in writing)
+
 It is mandatory to email your reflections to your designated leader, who helps keep you accountable for your sins. Your leader, out of an abundance of love, may also share the content of your reflections with their friends, your friends, or anyone else in the church who might be affected by your sins.
 
 ### How Gracepoint Views Itself
@@ -58,7 +63,7 @@ Gracepoint is well-aware about the types of questions asked about its practices.
 
 Please read the document for yourself. We'll try to summarize a few of our personal takeaways:
 
-**Strawman arguments**
+### Takeaway #1: Strawman arguments dodge actual questions
 
 Here’s an example: 
 - Question (quoted): Why do leaders meddle in people's lives, and have so much authority and say here?
@@ -68,7 +73,7 @@ Somehow, a logical jump is made that because having *a* leadership structure is 
 
 Never addressed: what keeps Gracepoint’s top leadership in check? The closest answer from the document is "fear that something can be abused is not adequate grounds for invalidating it altogether." The assumption seems to be that the top leadership is made out of special incorruptible stuff, and there is no reason to fear them.
 
-**Misleading language**
+### Takeaway #2: Misleading language shifts agency away from the church
 
 Example: "We discourage dating."
 - Is it a simple "discouragement" if, among ~1,000 singles across churches, aged 18-21, there are *zero* dating couples?
@@ -76,16 +81,20 @@ Example: "We discourage dating."
 - Is it a simple "discouragement" if you are only permitted to date someone when your leader decides both of you are "mature enough?"
 - Using words like "discouraged" instead of "prohibited," the church is able to maintain an appearance that thousands of individuals *just happen to* arrive at the same conclusion.
 
-**Everything is permissible**
+In an interview with the Southern Baptist Convention (SBC), Gracepoint founder & lead pastor, Ed Kang, describes his ministry as "very organic" and "there’s no formula." This appears at odds with the strong structure outlined above, but we will leave it to the reader to decide if those descriptions are accurate.
 
-> “Everything is permissible-- but not everything is beneficial"
+*Primary Source:* [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}
 
-This verse is frequently used to justify Gracepoint’s stances against various activities or ways of life. At Gracepoint, you are free to do as you please - nothing is prohibited. However, for your own protection, if you take part in non-beneficial behaviors, you may lose privileges to do things like participate in ministry, go on dates, or attend certain events with friends. 
+### Takeaway #3: Things aren't as opt-in as they seem
 
-Examples of questionable behavior include:
-- listening to non-Christian music (don't)
-- owning a TV (don't)
-- playing video games (don't)
+> "Everything is permissible-- but not everything is beneficial"
+
+This verse is frequently used alongside Gracepoint’s stances against various activities, behaviors, or choices. At Gracepoint, you are free to do as you please - nothing is prohibited. However, for your own protection, if you take part in "non-beneficial" behaviors, you may lose privileges to do things like participate in ministry, go on dates, or attend certain events with friends. 
+
+Examples of non-beneficial things include:
+- listening to non-Christian music
+- owning a TV
+- playing video games
 - owning a pet (don't)
 - the way your house is organized
 - the way you dress and the length of your hair
@@ -94,23 +103,14 @@ Examples of questionable behavior include:
 - not having roommates
 - dating anyone who isn't a member of Gracepoint
 
-**"There’s no formula"**
-
-In an interview with the Southern Baptist Convention (SBC), Pastor Ed describes his ministry as "very organic" and "there’s no formula." This appears at odds with the strong structure outlined above, but we will leave it to the reader to decide if those descriptions are accurate.
-
-*Primary Source:* [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}
-
 [NEEDS FACT CHECK/CONTEXT]
-
-**Everything is permissible (for the leadership)**
-
 Ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a rule or two itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out test request forms to its members, which would allow them to get tested before the general public. Interestingly, they were signed by an *orthopedist*, and the email was linked to Steve Suh (one of the top Gracepoint ministry leaders, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ.
 
 **Primary Source:** [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg)
 
-### How Gracepoint Views Others
+# How Gracepoint Views Others
 
-**How new attendees are seen**
+### How new attendees are seen
 
 People looking to join Gracepoint typically fall into two groups: 
 - A) Students (usually college freshmen, but also new grad students)
@@ -120,9 +120,9 @@ If you fall into group A, everyone is astonishingly friendly and accommodating t
 
 If you fall into group B, you are gently separated from everyone else and recommended to find a different church. Gracepoint is, by design, very focused on the college demographic - specifically from freshman year, as outlined in the College Ministry Goals document. By specializing, the church avoids spreading itself too thin. The result is a highly efficient church. We leave it up to the reader to decide if it is a healthy model.
 
-[NEEDS DETAILS/EXAMPLES]
+### How other churches are seen
 
-**How other churches are seen**
+[NEEDS DETAILS/EXAMPLES]
 
 Gracepoint leadership has been known to spotlight the struggles of other churches, and juxtapose them with Gracepoint's own successes.
 
