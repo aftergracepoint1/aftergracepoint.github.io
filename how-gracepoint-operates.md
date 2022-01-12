@@ -19,20 +19,20 @@ Every new member takes the following courses, in-order:
 3. Church 101
 4. Survival Kit 2
 
-**What are these courses?**
+**What are these courses**
 - Each course takes about a semester and involves readings and homework.
 - Course 101 is a basic introduction to Christianity, drawing a lot of material from books like Mere Christianity (C.S. Lewis) and Basic Christianity (John Stott). 
 - Survival Kit 1, Church 101, and Survival Kit 2 are more application-focused and go into detail about what healthy church life & (non-romantic) relationships should look like
 
-**There is a lot at stake**
+**Why are these courses important?**
 - Passing each of these courses requires you to not only *learn* Gracepoint's worldview, but also *affirm it as your own."
 - The final question of Course 101 asks whether you are ready to publicly accept Christ as your Lord and Savior. After answering ‘yes,’ you are celebrated with praise, flowers, and gifts.
 - Some church meetings & retreats require you to have passed all of the courses to attend
 - Disagreeing with the material is typically seen as being held back by fears or worldly desires, and is something to be prayed through
 
-### How Gracepoint Discipleship Continues
+# How Gracepoint Discipleship Continues
 
-**Members Bible Study (MBS):** MBS is a mandatory extra church service for members-only, led by Pastor Ed. The idea is that the public church service is geared towards seekers, while MBS preaches more advanced topics for members that might be misunderstood by the general public.
+### Members Bible Study (MBS):** MBS is a mandatory extra church service for members-only, led by Pastor Ed. The idea is that the public church service is geared towards seekers, while MBS preaches more advanced topics for members that might be misunderstood by the general public.
 
 During this time, Pastor Ed is often looser with his words, sometimes letting offensive jokes or "un-PC" opinions slip through. For example, when explaining an illustration involving an electric circuit, he made a comment, "I'm explaining this because there are sisters in the room," to which the audience chuckled.
 
@@ -68,6 +68,7 @@ Example: "We discourage dating."
 - Using words like "discouraged" instead of "prohibited," the church is able to maintain an appearance that thousands of individuals *just happen to* arrive at the same conclusion.
 
 **Everything is permissible*
+
 "Everything is permissible-- but not everything is beneficial"
 This verse is frequently used to justify Gracepoint’s stances against various activities or ways of life. At Gracepoint, you are free to do as you please - nothing is prohibited. However, for your own protection, if you take part in non-beneficial behaviors, you may lose privileges to do things like participate in ministry, go on dates, or attend certain events with friends. Some examples:
 - listening to non-Christian music (don't)
@@ -82,9 +83,11 @@ This verse is frequently used to justify Gracepoint’s stances against various 
 - dating anyone who isn't a member of Gracepoint
 
 **All organic, no formula**
+
 In an interview posted on [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}, Pastor Ed claims his ministry is "very organic" and "there’s no formula." We will leave it to the reader to decide if those descriptions are accurate.
 
 [NEEDS FACT CHECK/CONTEXT]
+
 **Everything is permissible… for the leadership**
 Ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a rule or two itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out test request forms to its members, which would allow them to get tested before the general public. Interestingly, they were signed by an *orthopedist*, and the email was linked to Steve Suh (one of the top Gracepoint ministry leaders, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ.
 
@@ -93,6 +96,7 @@ Ironically, Gracepoint leadership, as much as it prides itself in its strong sta
 ### How Gracepoint Views Outsiders
 
 **New attendees**
+
 People looking to join Gracepoint typically fall into two groups: 
 - A) Students (usually college freshmen, but also new grad students)
 - B) Everyone else
@@ -101,6 +105,7 @@ If you fall into group A, everyone is astonishingly friendly and accommodating t
 If you fall into group B, you are gently separated from everyone else and recommended to find a different church. Gracepoint is, by design, very focused on the college demographic - specifically from freshman year, as outlined in the College Ministry Goals document. By specializing, the church avoids spreading itself too thin. The result is a highly efficient church. We leave it up to the reader to decide if it is a healthy model.
 
 [NEEDS DETAILS/EXAMPLES]
+
 **Other churches**
 
 Gracepoint leadership has been known to spotlight the struggles of other churches, and juxtapose them with Gracepoint's own successes.
