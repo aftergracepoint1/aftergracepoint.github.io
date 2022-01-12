@@ -14,6 +14,8 @@ It also runs Joyland (Children’s Ministry), Impact (Youth Ministry), InterHigh
 
 ### What’s it like at Gracepoint?
 
+*Below is a hypothetical experience based on several dozen testimonies. Your actual experience may be different in many ways.*
+
 It’s your freshman year, welcome week at Cal. You never knew church could look like this!
 
 Amazing food. Bible studies that you can actually relate to. 20-something year old adults wanting to get to know you. All while being surrounded by smart, really smart, educated people. Academics and professionals. All living out the gospel as a united body of Christ. 
@@ -89,3 +91,5 @@ All you can do is hope and pray the tension and doubt will go away. For many, it
 But at what cost?
 
 ![](https://i.imgur.com/mb5449T.jpg)
+
+
