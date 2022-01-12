@@ -13,7 +13,7 @@ What makes Gracepoint's spiritual abuse often hard to pin down is that it tends 
 Gracepoint has a highly structured approach to discipleship. Each year, from freshman year through senior year, college students follow a fairly set "track" of maturation. This allows entire classes of young men and women to be discipled together, which is remarkably efficient.
 
 Courtesy of a former staff member, a handout describing this approach in detail can be found here: 
-[College Ministry Growth Goals](https://i.imgur.com/Sd1wR5t.jpg)
+[College Ministry Growth Goals](https://i.imgur.com/Sd1wR5t.jpg){:target="_blank"}
 
 Every new Gracepoint member must pass the following courses: Course 101 --> Survival Kit 1 --> Church 101 --> Survival Kit 2
 
@@ -46,7 +46,7 @@ The catch is that you are *required* to send your reflections to your designated
 
 Gracepoint is aware of the backlash it receives for its practices. In fact, it has extensive documentation on responses to common questions.
 
-[Gracepoint's Answers to Commonly Asked Questions](https://drive.google.com/file/d/10zG4nH7vgYMdCqzHCA6xx6EnMLSV-IFk/view?usp=sharing)
+[Gracepoint's Answers to Commonly Asked Questions](https://drive.google.com/file/d/10zG4nH7vgYMdCqzHCA6xx6EnMLSV-IFk/view?usp=sharing){:target="_blank"}
 
 This isn't the place for a line-by-line analysis, so we'll try to summarize a few key takeaways:
 - It's interesting that this document even exists. Why does a church need 11 pages to tell people "we aren't the bad guys?"
@@ -72,7 +72,7 @@ This isn't the place for a line-by-line analysis, so we'll try to summarize a fe
 		- being roommates with anyone who isn't a member of Gracepoint (even just a buddy of yours)
 		- dating anyone who isn't a member of Gracepoint
 
-Ironically, in an interview posted on [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices), Pastor Ed claims his ministry is "very organic" and "there’s no formula."
+Ironically, in an interview posted on [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}, Pastor Ed claims his ministry is "very organic" and "there’s no formula."
 
 Even more ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a few rules itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out these [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg) to its members. Interestingly, they were signed by an orthopedist, and the email was linked to Steve Suh (a Gracepoint ministry lead, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ. "Everything is permissible" indeed.
 
