@@ -53,7 +53,7 @@ It is mandatory to email your reflections to your designated leader, who helps k
 
 Gracepoint is aware of the backlash it receives for its practices. In fact, it has extensive documentation on responses to common questions.
 
-[Gracepoint's Answers to Commonly Asked Questions](https://i.redd.it/wpgtcn6bh7b81.jpg){:target="_blank"}
+**Primary Source:** [Gracepoint's Answers to Commonly Asked Questions](https://i.redd.it/wpgtcn6bh7b81.jpg){:target="_blank"}
 
 Read the document for yourself. We'll try to summarize a few of our __opinions__:
 - It's interesting that this document even exists. Why does a church need 11 pages to tell people "we are the good guys?"
@@ -93,7 +93,9 @@ In an interview posted on [Gracepoint Under The Hood](https://www.gracepointonli
 
 [NEEDS FACT CHECK/CONTEXT]
 **Everything is permissible… for the leadership**
-Ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a rule or two itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out these [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg) to its members. Interestingly, they were signed by an *orthopedist*, and the email was linked to Steve Suh (one of the top Gracepoint ministry leaders, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ.
+Ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a rule or two itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out test request forms to its members, which would allow them to get tested before the general public. Interestingly, they were signed by an *orthopedist*, and the email was linked to Steve Suh (one of the top Gracepoint ministry leaders, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ.
+
+**Primary Source:** [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg)
 
 ### How Gracepoint Views Outsiders
 
