@@ -17,7 +17,7 @@ The church grew in number steadily. Main attendees were Korean American students
 
 They met in a building on Alcatraz Ave on the border of Berkeley and Oakland, hence the name Berkland. The building was used for Sunday service, bible studies, prayer meetings, and many other church activities until the congregation became too large to fit into the sanctuary for Sunday service. The building has since been demolished and there are now apartments/condos there instead. The church started using Willard Middle School's auditorium/cafeteria for Sunday gatherings when the building on Alcatraz became too small to fit all the members.
 
-In 1991, Becky and Paul Kim moved to Boston to plant a church, leaving Ed and Kelly Kang to lead BBC.
+In 1991, Becky and Paul Kim moved to Boston to plant a branch of the church in the East targeting students at Harvard in Boston. Ed and Kelly Kang started leading the Berkeley church.
 
 **1995-2005: Growth and Division** - This was a time of growth and multiplication for BBC. It was also a period of growing dissatisfaction and division among the leaders in their feelings toward Rebekah Kim and her leadership of BBC.
 

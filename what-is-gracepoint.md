@@ -4,7 +4,7 @@ title: What is Gracepoint?
 cover-img: https://i.imgur.com/TpoVjHb.jpg
 ---
 
-Gracepoint is a Southern Baptist church that started in Berkeley, California in 2006 and has since expanded to ~100 sites across the United States. Gracepoint primarily plants churches in college towns. 
+Gracepoint started in 1991 as Berkland Baptist Church in Berkeley, California, as a church in the Southern Baptist Convention denomination. The church changed its name to Gracepoint in 2006 when Ed and Kelly Kang split from the founders. Gracepoint has since expanded to ~100 sites, primarily in college towns.
 
 It runs various on-campus student groups such as Acts2Fellowship (A2F), Koinonia, Klesis, MakeNew, International Graduate Student Ministry (IGSM), Visiting Scholar Ministry (VSM), and many more.
 
@@ -26,7 +26,7 @@ Entering college and living away from home is a huge life transition. How fortun
 
 ### But what is it really like at Gracepoint?
 
-After the honeymoon stage of freshman year passes, you begin to fully appreciate what a spiritually thriving Gracepoint is. There are people being saved seemingly every Sunday, sharing their heartfelt testimonies as they accept or reaffirm their commitment to Christ. Pastor Ed’s messages move you and give you a new understanding of God’s word. Passages you’ve heard a hundred times in the past surprise you with new understanding in the context of sermons and bible studies. You start to see your peers as not just friends, but brothers and sisters and envision doing life together even after graduating.
+After the honeymoon stage of freshman year passes, you begin to fully appreciate what a spiritually thriving church Gracepoint is. There are people being saved seemingly every Sunday, sharing their heartfelt testimonies as they accept or reaffirm their commitment to Christ. Pastor Ed’s messages move you and give you a new understanding of God’s word. Passages you’ve heard a hundred times in the past surprise you with new understanding in the context of sermons and bible studies. You start to see your peers as not just friends, but brothers and sisters and envision doing life together even after graduating.
 
 Around this time, you also notice some peculiarities. Events are increasingly separated by gender, and you notice little things, like when organizing rides, guys and girls never ride together. Dating is technically not “not allowed,” but nobody does it. Strange…in a community of hundreds of 18-21 year olds, nobody wants to date? Well, of course they want to date, but they willingly deny themselves for the sake of focusing on their same-gender relationships first and not risking causing strife in the community as dating often does (especially those ending in a breakup).
 
