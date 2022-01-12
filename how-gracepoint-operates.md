@@ -4,13 +4,14 @@ title: How Gracepoint Operates
 cover-img: https://i.imgur.com/34z8VWJ.jpg
 ---
 
-This page attempts to give some real-world examples of Gracepoint's inner workings, with primary sources that allow you to draw your own conclusions.
+This page attempts to give some real-world examples of Gracepoint's inner workings, with primary sources from which you may draw your own conclusions.
 
-[ TESTING…WONDER IF THIS WORKS ]
+**Contents**
 
-1. [How Gracepoint Discipleship Begins](#How Gracepoint Discipleship Begins)
-2. [How Gracepoint Discipleship Continues](#How Gracepoint Discipleship Continues)
-
+1. [How Gracepoint Discipleship Begins](#how-gracepoint-discipleship-begins)
+2. [How Gracepoint Discipleship Continues](#how-gracepoint-discipleship-continues)
+3. [How Gracepoint Views Itself](#how-gracepoint-views-itself)
+4. [How Gracepoint Views Others](#how-gracepoint-views-others)
 
 ### How Gracepoint Discipleship Begins
 
@@ -108,7 +109,7 @@ Ironically, Gracepoint leadership, as much as it prides itself in its strong sta
 
 ### How Gracepoint Views Others
 
-**New attendees**
+**How new attendees are seen**
 
 People looking to join Gracepoint typically fall into two groups: 
 - A) Students (usually college freshmen, but also new grad students)
@@ -119,7 +120,7 @@ If you fall into group B, you are gently separated from everyone else and recomm
 
 [NEEDS DETAILS/EXAMPLES]
 
-**Other churches**
+**How other churches are seen**
 
 Gracepoint leadership has been known to spotlight the struggles of other churches, and juxtapose them with Gracepoint's own successes.
 
