@@ -10,6 +10,8 @@ It runs various on-campus student groups such as Acts2Fellowship (A2F), Koinonia
 
 It also runs Joyland (Children’s Ministry), Impact (Youth Ministry), InterHigh (High School Ministry), and various other ministries.
 
+> *Below is a hypothetical experience based on several dozen testimonies. Your actual experience may be different in many ways.*
+
 1. [What's it like at Gracepoint?](#whats-it-like-at-gracepoint)
 2. [But what is it really like at Gracepoint?](#but-what-is-it-really-like-at-gracepoint)
 3. [What happens to you?](#what-happens-to-you)
@@ -18,8 +20,6 @@ It also runs Joyland (Children’s Ministry), Impact (Youth Ministry), InterHigh
 ![](https://i.imgur.com/hDfjI0N.jpg)
 
 ### What’s it like at Gracepoint?
-
-*Below is a hypothetical experience based on several dozen testimonies. Your actual experience may be different in many ways.*
 
 It’s your freshman year, welcome week at Cal. You never knew church could look like this!
 
