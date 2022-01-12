@@ -30,13 +30,6 @@ Every new member takes the following courses, in-order:
 - Some church meetings & retreats require you to have passed all of the courses to attend
 - Disagreeing with the material is typically seen as being held back by fears or worldly desires, and is something to be prayed through
 
-[Unsure if this is needed, might come across too strongly]
-The result is a cookie-cutter approach where anyone who doesn't fit in either forces themselves to fit, or leaves the church.
-- It doesn't matter if you've already accepted Christ at another church. You have to re-accept Christ at Gracepoint (via Course 101) to continue on the discipleship track. Also, if your testimony isn't approved by your leader, they will refuse to baptize you.
-- It doesn't matter if you're a Pastor's kid or a brand new seeker. What matters is if you are a freshman or a senior. If you're a freshman, you have to take Course 101 (the intro to Christianity course). If you're a senior, you're expected to serve and reach out to freshmen. It doesn't matter that the freshman in this case was a Pastor's kid and lived/breathed the gospel for 18 years, while the senior was an unchurched, brand new convert.
-- It doesn't matter if you're a star athlete. If you can't make it to every Friday night bible study, you're struggling (and probably idolizing sports in this case).
-- It is worth noting the emphasis on things like "How they view staff" and "Start serving" rather than growing in their relationship with God, growing in their prayer life, or growing as individuals.
-
 ### How Gracepoint Discipleship Continues
 
 **Members Bible Study (MBS):** MBS is a mandatory extra church service for members-only, led by Pastor Ed. The idea is that the public church service is geared towards seekers, while MBS preaches more advanced topics for members that might be misunderstood by the general public.
@@ -114,5 +107,7 @@ Gracepoint leadership has been known to spotlight the struggles of other churche
 
 "Country club churches" where nothing happens?
 etc.
+
+
 
 
