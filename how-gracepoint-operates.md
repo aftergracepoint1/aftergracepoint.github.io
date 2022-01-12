@@ -6,11 +6,17 @@ cover-img: https://i.imgur.com/34z8VWJ.jpg
 
 This page attempts to give some real-world examples of Gracepoint's inner workings, with primary sources that allow you to draw your own conclusions.
 
+[ TESTING…WONDER IF THIS WORKS ]
+
+1. [How Gracepoint Discipleship Begins](#How Gracepoint Discipleship Begins)
+2. [How Gracepoint Discipleship Continues](#How Gracepoint Discipleship Continues)
+
+
 ### How Gracepoint Discipleship Begins
 
 Gracepoint has a structured approach to discipleship. From freshman to senior, college students follow a fairly set "track" of spiritual growth. This allows entire classes of young men and women to be discipled together, which is remarkably efficient.
 
-**Primary Source:
+> **Primary Source:
 [College Ministry Growth Goals](https://i.imgur.com/Sd1wR5t.jpg){:target="_blank"}**
 
 Every new member takes the following courses, in-order: 
@@ -19,7 +25,7 @@ Every new member takes the following courses, in-order:
 3. Church 101
 4. Survival Kit 2
 
-**What are these courses**
+**What are these courses?**
 - Each course takes about a semester and involves readings and homework.
 - Course 101 is a basic introduction to Christianity, drawing a lot of material from books like Mere Christianity (C.S. Lewis) and Basic Christianity (John Stott). 
 - Survival Kit 1, Church 101, and Survival Kit 2 are more application-focused and go into detail about what healthy church life & (non-romantic) relationships should look like
@@ -30,9 +36,9 @@ Every new member takes the following courses, in-order:
 - Some church meetings & retreats require you to have passed all of the courses to attend
 - Disagreeing with the material is typically seen as being held back by fears or worldly desires, and is something to be prayed through
 
-# How Gracepoint Discipleship Continues
+### How Gracepoint Discipleship Continues
 
-### Members Bible Study (MBS):** MBS is a mandatory extra church service for members-only, led by Pastor Ed. The idea is that the public church service is geared towards seekers, while MBS preaches more advanced topics for members that might be misunderstood by the general public.
+**Members Bible Study (MBS):** MBS is a mandatory extra church service for members-only, led by Pastor Ed. The idea is that the public church service is geared towards seekers, while MBS preaches more advanced topics for members that might be misunderstood by the general public.
 
 During this time, Pastor Ed is often looser with his words, sometimes letting offensive jokes or "un-PC" opinions slip through. For example, when explaining an illustration involving an electric circuit, he made a comment, "I'm explaining this because there are sisters in the room," to which the audience chuckled.
 
@@ -44,33 +50,37 @@ It is mandatory to email your reflections to your designated leader, who helps k
 
 ### How Gracepoint Views Itself
 
-Gracepoint is aware of the backlash it receives for its practices. In fact, it has extensive documentation on responses to common questions.
+Gracepoint is well-aware about the types of questions asked about its practices. In fact, it has extensive documentation on its responses to these questions.
 
-**Primary Source:** [Gracepoint's Answers to Commonly Asked Questions](https://i.redd.it/wpgtcn6bh7b81.jpg){:target="_blank"}
+> **Primary Source:** [Gracepoint's Answers to Commonly Asked Questions](https://i.redd.it/wpgtcn6bh7b81.jpg){:target="_blank"}
 
-Read the document for yourself. We'll try to summarize a few of our __opinions__:
-- It's interesting that this document even exists. Why does a church need 11 pages to tell people "we are the good guys?"
+Please read the document for yourself. We'll try to summarize a few of our personal takeaways:
 
 **Strawman arguments**
+
 Here’s an example: 
 - Question (quoted): Why do leaders meddle in people's lives, and have so much authority and say here?
-- Answer (summarized): Look at all these other organizations (police, schools, etc) with leadership structures. Without leadership structures, an organization is aimless and nothing gets done. We don't want our church to be aimless. Also, here are bible verses about obeying and submitting.
+- Answer (summarized): Without leadership structures, an organization is aimless and nothing gets done. We don't want our church to be aimless. Plus, there’s precedent - look at all these other organizations (police, schools, etc) with leadership structures. Finally, it’s biblical - here are bible verses about obeying and submitting.
 
 Somehow, a logical jump is made that because having *a* leadership structure is better than none, having *any* leadership structure is justified. 
 
 Never addressed: what keeps Gracepoint’s top leadership in check? The closest answer from the document is "fear that something can be abused is not adequate grounds for invalidating it altogether." The assumption seems to be that the top leadership is made out of special incorruptible stuff, and there is no reason to fear them.
 
-**Misleading language*
+**Misleading language**
+
 Example: "We discourage dating."
 - Is it a simple "discouragement" if, among ~1,000 singles across churches, aged 18-21, there are *zero* dating couples?
 - Is it a simple "discouragement" if dating means you are disallowed from attending retreats, prayer meetings, and other events with your friends?
 - Is it a simple "discouragement" if you are only permitted to date someone when your leader decides both of you are "mature enough?"
 - Using words like "discouraged" instead of "prohibited," the church is able to maintain an appearance that thousands of individuals *just happen to* arrive at the same conclusion.
 
-**Everything is permissible*
+**Everything is permissible**
 
-"Everything is permissible-- but not everything is beneficial"
-This verse is frequently used to justify Gracepoint’s stances against various activities or ways of life. At Gracepoint, you are free to do as you please - nothing is prohibited. However, for your own protection, if you take part in non-beneficial behaviors, you may lose privileges to do things like participate in ministry, go on dates, or attend certain events with friends. Some examples:
+> “Everything is permissible-- but not everything is beneficial"
+
+This verse is frequently used to justify Gracepoint’s stances against various activities or ways of life. At Gracepoint, you are free to do as you please - nothing is prohibited. However, for your own protection, if you take part in non-beneficial behaviors, you may lose privileges to do things like participate in ministry, go on dates, or attend certain events with friends. 
+
+Examples of questionable behavior include:
 - listening to non-Christian music (don't)
 - owning a TV (don't)
 - playing video games (don't)
@@ -82,18 +92,21 @@ This verse is frequently used to justify Gracepoint’s stances against various 
 - not having roommates
 - dating anyone who isn't a member of Gracepoint
 
-**All organic, no formula**
+**”There’s no formula”**
 
-In an interview posted on [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}, Pastor Ed claims his ministry is "very organic" and "there’s no formula." We will leave it to the reader to decide if those descriptions are accurate.
+In an interview with the Southern Baptist Convention (SBC), Pastor Ed describes his ministry as "very organic" and "there’s no formula." This appears at odds with the strong structure outlined above, but we will leave it to the reader to decide if those descriptions are accurate.
+
+*Primary Source:* [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}
 
 [NEEDS FACT CHECK/CONTEXT]
 
-**Everything is permissible… for the leadership**
+**Everything is permissible (for the leadership)**
+
 Ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a rule or two itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out test request forms to its members, which would allow them to get tested before the general public. Interestingly, they were signed by an *orthopedist*, and the email was linked to Steve Suh (one of the top Gracepoint ministry leaders, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ.
 
 **Primary Source:** [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg)
 
-### How Gracepoint Views Outsiders
+### How Gracepoint Views Others
 
 **New attendees**
 
