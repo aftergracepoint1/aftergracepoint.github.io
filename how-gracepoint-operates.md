@@ -6,7 +6,6 @@ cover-img: https://i.imgur.com/34z8VWJ.jpg
 
 This page attempts to give some real-world examples of Gracepoint's inner workings, with primary sources from which you may draw your own conclusions.
 
-#### Outline
 1. [How Gracepoint Discipleship Begins](#how-gracepoint-discipleship-begins)
      - [What are the courses?](#what-are-the-courses)
 	 - [Why are the courses important?](#why-are-the-courses-important)
