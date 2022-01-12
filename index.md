@@ -25,9 +25,9 @@ Our goals are to:
 
 3. Provide resources and a sense of community for those who have left and are putting their lives back together.
 
-After reading hundreds of testimonies across multiple decades, it has become clear that Gracepoint has a spiritually abusive culture that is by design, rather than isolated events caused by bad actors here and there.
+After hundreds of testimonies across multiple decades have surfaced, it has become clear that the issues we present go well beyond isolated events caused by individual bad actors.
 
-Because of this, our mission is to equip people with information, rather than seeking to “reform” the church.
+Because of this, our mission is to equip people with information, resources, and community, rather than seeking to “reform” the church.
 
 This site was created by former Gracepoint members and staff. We speak from years - and some from decades - of experience.
 
