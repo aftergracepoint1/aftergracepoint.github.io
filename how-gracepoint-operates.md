@@ -4,7 +4,7 @@ title: How Gracepoint Operates
 cover-img: https://i.imgur.com/34z8VWJ.jpg
 ---
 
-(to do: this is very rough, just mostly stream of consciousness at the moment)
+(to do: this is very rough, just mostly stream of consciousness at the moment. Most likely it needs to be edited down.)
 
 What makes Gracepoint's spiritual abuse often hard to pin down is that it tends to be couched in reasonable, spiritual-sounding language. This page, while not exhaustive, attempts to give some real-world examples of Gracepoint's operations with primary sources.
 
