@@ -74,7 +74,7 @@ This isn't the place for a line-by-line analysis, so we'll try to summarize a fe
 
 Ironically, in an interview posted on [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}, Pastor Ed claims his ministry is "very organic" and "there’s no formula."
 
-Even more ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a few rules itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out these [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg) to its members. Interestingly, they were signed by an orthopedist, and the email was linked to Steve Suh (a Gracepoint ministry lead, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ. "Everything is permissible" indeed.
+Even more ironically, Gracepoint leadership, as much as it prides itself in its strong stances and boundaries, isn't above breaking a few rules itself. During the start of COVID-19 when testing was scarce, Gracepoint handed out these [COVID-19 test requisition forms](https://i.imgur.com/DbqKVKI.jpg) to its members. Interestingly, they were signed by an *orthopedist*, and the email was linked to Steve Suh (one of the top Gracepoint ministry leaders, not a doctor), and the "primary practice" address was 1275 Harbor Bay Parkway, which is Gracepoint's HQ. "Everything is permissible" indeed.
 
 ### How Gracepoint Views Outsiders
 
