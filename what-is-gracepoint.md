@@ -10,6 +10,12 @@ It runs various on-campus student groups such as Acts2Fellowship (A2F), Koinonia
 
 It also runs Joyland (Children’s Ministry), Impact (Youth Ministry), InterHigh (High School Ministry), and various other ministries.
 
+#### Outline
+1. [What's it like at Gracepoint?](#whats-it-like-at-gracepoint)
+2. [But what is it really like at Gracepoint?](#but-what-is-it-really-like-at-gracepoint)
+3. [What happens to you?](#what-happens-to-you)
+4. [Who do you become?](#who-do-you-become)
+
 ![](https://i.imgur.com/hDfjI0N.jpg)
 
 ### What’s it like at Gracepoint?
