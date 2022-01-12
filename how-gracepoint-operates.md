@@ -11,8 +11,8 @@ This page attempts to give some real-world examples of Gracepoint's inner workin
      - [What are the courses?](#what-are-the-courses)
 	 - [Why are the courses important?](#why-are-the-courses-important)
 2. [How Gracepoint Discipleship Continues](#how-gracepoint-discipleship-continues)
-     - [Members Bible Study (MBS)](#members-bible-study-(mbs))
-	 - [Weekly Reflections (WR)](#weekly-reflections-(wr))
+     - [Members Bible Study (MBS)](#members-bible-study-mbs)
+	 - [Weekly Reflections (WR)](#weekly-reflections-wr)
 3. [How Gracepoint Views Itself](#how-gracepoint-views-itself)
 	 - [Takeaway #1: Strawman arguments dodge actual questions](#takeaway-1-strawman-arguments-dodge-actual-questions)
 	 - [Takeaway #2: Misleading language shifts agency away from the church](#takeaway-2-misleading-language-shifts-agency-away-from-the-church)
@@ -82,11 +82,12 @@ Example: "We discourage dating."
 
 In an interview with the Southern Baptist Convention (SBC), Gracepoint founder & lead pastor, Ed Kang, describes his ministry as "very organic" and "there’s no formula." This appears at odds with the strong structure outlined above, but we will leave it to the reader to decide if those descriptions are accurate.
 
-*Primary Source:* [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}
+> **Primary Source:** [Gracepoint Under The Hood](https://www.gracepointonline.org/church-culture-and-practices){:target="_blank"}
 
 #### Takeaway #3: Things aren't as opt-in as they seem
 > "Everything is permissible-- but not everything is beneficial"
-This verse is frequently used alongside Gracepoint’s stances against various activities, behaviors, or choices. At Gracepoint, you are free to do as you please - nothing is prohibited. However, for your own protection, if you take part in "non-beneficial" behaviors, you may lose privileges to do things like participate in ministry, go on dates, or attend certain events with friends. 
+
+This verse is often used alongside Gracepoint’s stances against various activities, behaviors, or choices. At Gracepoint, you are free to do as you please - nothing is prohibited. However, for your own protection, if you take part in "non-beneficial" behaviors, you may lose privileges to do things like participate in ministry, go on dates, or attend certain events with friends. 
 
 Examples of non-beneficial things include:
 - listening to non-Christian music
