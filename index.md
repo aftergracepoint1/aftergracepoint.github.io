@@ -27,7 +27,7 @@ Our goals are to:
 
 After hundreds of testimonies across multiple decades have surfaced, it has become clear that the issues we present go well beyond isolated events caused by individual bad actors.
 
-Because of this, our mission is to equip people with information, resources, and community, rather than seeking to “reform” the church.
+We do not seek to "reform" the church. Our mission is simply to equip people, especially those who have been hurt, with information, resources, and community.
 
 This site was created by former Gracepoint members and staff. We speak from years - and some from decades - of experience.
 
