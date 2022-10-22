@@ -13,10 +13,12 @@ author: After Gracepoint Team
 
 # --- List of links in the navigation bar --- #
 
+# figure out how to fix these...
+# - Testimonies: https://www.reddit.com/r/GracepointChurch/wiki/testimonies/
+# - Analysis: https://www.reddit.com/r/GracepointChurch/wiki/analysis/
+
 navbar-links:
   Stories: 
-    - Testimonies: https://www.reddit.com/r/GracepointChurch/wiki/testimonies/
-    - Analysis: https://www.reddit.com/r/GracepointChurch/wiki/analysis/
     - In the News: "in-the-news"
   Leaving Process:
     - Questions To Ask Yourself: "questions-to-ask-yourself"
