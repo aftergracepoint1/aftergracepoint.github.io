@@ -35,7 +35,6 @@ This site was created by former Gracepoint members and staff. We speak from year
 
 ### Contact Us
 
-The best way to connect with former Gracepoint members is either via our Discord community ([https://discord.gg/shUNTVqKp8](https://discord.gg/shUNTVqKp8)) or via the reddit community at [/r/GracepointChurch](https://www.reddit.com/r/GracepointChurch/)
-
-If you have inquiries specific to the website, please message one of the moderators on the Discord.
+If you want to connect with others, see the [Get Connected](get-connected.md) tab.
+If you have feedback/ideas for this site, see the [After Gracepoint Feedback & Ideas](https://app.loopedin.io/after-gracepoint) board.
 
