@@ -14,7 +14,10 @@ author: After Gracepoint Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Testimonies: "testimonies"
+  Stories: 
+    - Testimonies: "https://www.reddit.com/r/GracepointChurch/wiki/testimonies/"
+    - Analysis: "https://www.reddit.com/r/GracepointChurch/wiki/analysis/"
+    - In the News: "in-the-news"
   Leaving Process:
     - Questions To Ask Yourself: "questions-to-ask-yourself"
     - How To Leave Gracefully: "how-to-leave-gracefully"
