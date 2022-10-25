@@ -14,10 +14,13 @@ author: After Gracepoint Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Stories: 
+  Stories & Articles: 
     - In the News: "in-the-news"
     - Testimonies: https://www.reddit.com/r/GracepointChurch/wiki/testimonies/
     - Analysis: https://www.reddit.com/r/GracepointChurch/wiki/analysis/
+  External Resources: 
+    - 8 Signs of a Dysfunctional Church: https://leavingthenetwork.org/dysfunctional-church/
+    - What is Spiritual Abuse?: https://leavingthenetwork.org/spiritual-abuse/
   Leaving Process:
     - Questions To Ask Yourself: "questions-to-ask-yourself"
     - How To Leave Gracefully: "how-to-leave-gracefully"
@@ -26,6 +29,7 @@ navbar-links:
     - What is Gracepoint?: "what-is-gracepoint"
     - How Gracepoint Operates: "how-gracepoint-operates"
     - History of Gracepoint: "history-of-gracepoint"
+    - What does Gracepoint have to say?: "gracepoint-response"
   Get Connected: "get-connected"
 
 # --- Logo --- #
