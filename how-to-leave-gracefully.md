@@ -8,6 +8,12 @@ You've reached the point where you think you want to leave Gracepoint. How can y
 
 Every individual is different; this page is meant to be used as a loose guideline. It is based on the experiences of many who have left over the years.
 
+1. [Write down your thoughts](#write-down-your-thoughts)
+2. [Confide in someone you can trust](#confide-in-someone-you-can-trust)
+3. [Decide how much to share](#decide-how-much-to-share)
+4. [Decide how to share it](#decide-how-to-share-it)
+5. [Be prepared for any response](#be-prepared-for-any-response)
+
 # Write down your thoughts
 
 There are several keys to do this well:
@@ -40,11 +46,11 @@ This is one of the hardest decisions you'll ever have to make in your life, and 
 
 Additionally, by being together, you can corroborate what was said by both parties if you ever need to refer to the conversation in the future. Two people, together, can usually remember something better than one alone.
 
-# Be prepared for the response
+# Be prepared for any response
 
 Some responses you may get:
 - Your leader may try to convince you to stay, because they think you're being too hasty/emotional, or they may think you'll really "fall" without Gracepoint there to support you (i.e. "where else will you go?"). Or because if you leave, you'll have a negative impact on the ministry (i.e. you're a lead/staff, you have influence among your peers, etc.). 
 - Your leader may genuinely listen and support your decision to leave. Many people who have left actually have experienced a more supportive response than they expected.
 - Your leader may get mad at you and try to correct you. However, anecdotally, we think this is rarer than people think it is, especially if the person leaving is confident in their decision to leave and has good reasons.
 
-Try to run the scenarios through your head and be prepared for any response.
+Try to run the scenarios through your head and be prepared for anything. Being prepared for any kind of response will help give you courage and confidence in your decision.
