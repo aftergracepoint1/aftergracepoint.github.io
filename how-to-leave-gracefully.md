@@ -55,6 +55,8 @@ Some responses you may get:
 
 Try to run the scenarios through your head and be prepared for anything. Being prepared for any kind of response will help give you courage and confidence in your decision.
 
+> :point_right: As for what to expect after you leave, continue on to next article: [Finding healing after leaving](finding-healing-after-leaving.md)
+
 # Further reading
 
 - [What I wish someone told me when I left GP](https://www.reddit.com/r/GracepointChurch/comments/vkznzw/what_i_wish_someone_told_me_when_i_left_gp_advice/)

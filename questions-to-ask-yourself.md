@@ -43,6 +43,8 @@ Consider the priorities and values of the church, not just by what it reflected 
 - How does the church and its leadership respond to criticism, correction, and difficult truths? 
 - Are the church's values the values you want to pass down to your children?
 
+If you reach the point where you think you want to leave Gracepoint, continue on to the next article: [How to leave gracefully](how-to-leave-gracefully.md)
+
 # Further reading
 
 - [GP Top-Down Leadership Structure and Spiritual Abuse](https://www.reddit.com/r/GracepointChurch/comments/s8y8ks/gp_topdown_leadership_structure_and_spiritual/)
