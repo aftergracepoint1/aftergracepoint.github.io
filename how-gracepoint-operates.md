@@ -122,13 +122,20 @@ If you fall into group B, you are gently separated from everyone else and recomm
 
 #### How other churches are seen
 
-[NEEDS DETAILS/EXAMPLES]
+Gracepoint leadership often gives off an air of being "better" than other churches. As seen in one of [Kelly Kang's emails](https://www.reddit.com/r/GracepointChurch/comments/t2xc5h/gp_team_email_from_kelly_kang/), mentions of the "American church" are always in the context of its failings, juxtaposed with Gracepoint's successes. 
 
-Gracepoint leadership has been known to spotlight the struggles of other churches, and juxtapose them with Gracepoint's own successes.
+While the leadership doesn't go as far as speaking bad about specific churches, the air of superiority is strong in other ways. If you want to go to a grad school, you are strongly, strongly encouraged to only apply to places with Gracepoint church plants, with the implication that a non-Gracepoint church wouldn't be as good. If you were to date someone from another church, you can bet that Gracepoint members will try to persuade that person to leave their church and join Gracepoint. The implication again, is that a person is categorically better off in Gracepoint than elsewhere.
 
-"Country club churches" where nothing happens?
-etc.
+Where does this come from? Perhaps it is simply pride, or perhaps it is envy that other Christians' lives seem to be easier or more comfortable, and so they must be doing worse spiritually because they aren't sacrificing as much as I am.
+
+Whatever the reasons may be, it's undeniable that the feeling of being "better" than other churches exists quite tangibly.
+
+> 👉 Continue to next article: [History of Gracepoint](history-of-gracepoint.md)
 
 
+# Further Reading
 
-
+- [A Discussion of Gracepoint Church’s Model by an Ex-Staff](https://www.reddit.com/r/GracepointChurch/comments/t04yw2/a_discussion_of_gracepoint_churchs_model_by_an/)
+- [Gracepoint and the Green Eyed Monster](https://www.reddit.com/r/GracepointChurch/comments/vnvqd6/gracepoint_and_the_green_eyed_monster/)
+- [The GP Experience: College v. Postgrad](https://www.reddit.com/r/GracepointChurch/comments/twmbjn/the_gp_experience_college_v_postgrad/)
+- [Ministry vs Family at GP](https://www.reddit.com/r/GracepointChurch/comments/nhl0ww/ministry_vs_family_at_gp/)

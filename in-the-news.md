@@ -21,3 +21,6 @@ The following are news articles written by various media outlets covering Gracep
 | ![](https://i.imgur.com/iAEOpPi.png) | [The Triton: Gracepoint Church Faces Abuse Allegations Across the UC](https://www.reddit.com/r/GracepointChurch/comments/qxv8yq/gracepoint_church_faces_abuse_allegations_across/) <br /> by Sarah Naughten \| November 19, 2021 |
 | --- | --- |
 
+Various journalists, Asian American writers, pastors, and advocates against abuse have responded on social media.
+
+> 👉 [The Response on Social Media](https://www.reddit.com/r/GracepointChurch/comments/xqm7vr/the_response_on_social_media/)

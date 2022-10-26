@@ -39,3 +39,4 @@ During this time, Becky was revered and spoke at many retreats at Berkland Berke
 
 **2005: “The Letter,” church split, and Gracepoint is born** - As time went on, there was growing concern about Rebekah Kim's behavior, harsh rebuking and shaming of her disciples in a public manner, and overall lack of humility and accountability. Ed Kang says he tried his best to give her feedback but that she rationalized her behaviors and never repented. At some point, Ed Kang had had enough and wrote a formal letter [todo: attach] to Becky, which called her out on her behaviors and laid out his intention to split off BBC Berkeley into a new church — now known as Gracepoint. Many other BBC churches followed suit, with some remaining affiliated with each other and others going their own way.
 
+> 👉 Continue to next article: [What does Gracepoint have to say?](what-does-gracepoint-have-to-say.md)

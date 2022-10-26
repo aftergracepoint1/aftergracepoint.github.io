@@ -42,4 +42,5 @@ If you have healthy relationships with family & friends, lean on them. Spend qua
 Consider therapy. You don't have to tell anyone. With a professional therapist, you get a neutral opinion as well as guaranteed confidentiality, both of which can be hard to come by otherwise. Often, a therapist just helps put into words what you already know & feel, which can be really valuable if you feel like you're stuck. Even just a single session could make a difference.
 - [todo: add links/resources?]
 
-And if you're up for it, we'd invite you to anonymously connect with us: [Get Connected](get-connected.md)
+> 👉 If you're up for it, we'd invite you to connect with us! [Get Connected](get-connected.md)
+

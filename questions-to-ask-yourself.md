@@ -43,7 +43,7 @@ Consider the priorities and values of the church, not just by what it reflected 
 - How does the church and its leadership respond to criticism, correction, and difficult truths? 
 - Are the church's values the values you want to pass down to your children?
 
-If you reach the point where you think you want to leave Gracepoint, continue on to the next article: [How to leave gracefully](how-to-leave-gracefully.md)
+> 👉 Continue to next article: [How to leave gracefully](how-to-leave-gracefully.md)
 
 # Further reading
 
@@ -55,4 +55,5 @@ If you reach the point where you think you want to leave Gracepoint, continue on
 - [Pastor Ed's Letter to Becky (his former Pastor)](https://www.reddit.com/r/GracepointChurch/comments/nkbx1r/eds_letter_to_becky_2005_after_discussion_with/)
 - [GP Under the Hood](https://www.reddit.com/r/GracepointChurch/comments/uiqcrk/gp_under_the_hood/)
 - [Unpacking the guilt handbook](https://www.reddit.com/r/GracepointChurch/comments/x55gnw/unpacking_the_guilt_handbook/)
+- [An open Letter to Pastor Daniel on my experiences while attending Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/wpdsbd/an_open_letter_to_pastor_daniel_on_my_experiences/)
 - More articles on the [/r/GracepointChurch wiki](https://www.reddit.com/r/GracepointChurch/wiki/analysis/)

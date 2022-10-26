@@ -95,6 +95,8 @@ All you can do is hope and pray the tension and doubt will go away. For many, it
 
 But at what cost?
 
+> 👉 Continue to next article: [How Gracepoint operates](how-gracepoint-operates.md)
+
 ![](https://i.imgur.com/mb5449T.jpg)
 
 
