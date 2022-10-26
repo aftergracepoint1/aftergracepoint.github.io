@@ -55,7 +55,7 @@ Some responses you may get:
 
 Try to run the scenarios through your head and be prepared for anything. Being prepared for any kind of response will help give you courage and confidence in your decision.
 
-> :point_right: As for what to expect after you leave, continue on to next article: [Finding healing after leaving](finding-healing-after-leaving.md)
+> 👉 As for what to expect after you leave, continue on to next article: [Finding healing after leaving](finding-healing-after-leaving.md)
 
 # Further reading
 
