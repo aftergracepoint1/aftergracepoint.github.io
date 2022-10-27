@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Questions to ask yourself
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/UhSGneC.jpg
 ---
 
 Making the decision of whether or not to leave a church is difficult. Almost every church experience is a mixed one, and the old adage is true: no church is perfect.

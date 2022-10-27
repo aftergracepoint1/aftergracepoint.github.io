@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What does Gracepoint have to say?
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/8NST1SQ.jpg
 ---
 
 Gracepoint is well-aware of its criticisms and has made a lot of effort to respond to them publicly. It is admirable that they take feedback seriously, and we hope that constructive conversations may continue between the church and individuals.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to leave gracefully
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/WcHqeQz.png
 ---
 
 You've reached the point where you think you want to leave Gracepoint. How can you leave gracefully, and what can you expect?

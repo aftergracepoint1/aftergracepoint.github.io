@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Finding healing after leaving
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/Qk6nHKP.png
 ---
 
 Now that you've left, what next?
