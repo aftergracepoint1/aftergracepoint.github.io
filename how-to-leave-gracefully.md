@@ -59,7 +59,7 @@ Try to run the scenarios through your head and be prepared for anything. Being p
 
 # Further reading
 
-- [What I wish someone told me when I left GP](https://www.reddit.com/r/GracepointChurch/comments/vkznzw/what_i_wish_someone_told_me_when_i_left_gp_advice/)
-- [You're Considering Leaving Gracepoint. Now what?](https://www.reddit.com/r/GracepointChurch/comments/v6cbgw/youre_considering_leaving_gracepoint_now_what_5/)
-- [The Experience of Leaving GP](https://www.reddit.com/r/GracepointChurch/comments/s7dc3h/the_experience_of_leaving_gp/)
-- More articles on the [/r/GracepointChurch wiki](https://www.reddit.com/r/GracepointChurch/wiki/analysis/)
+- [🔗What I wish someone told me when I left GP](https://www.reddit.com/r/GracepointChurch/comments/vkznzw/what_i_wish_someone_told_me_when_i_left_gp_advice/)
+- [🔗You're Considering Leaving Gracepoint. Now what?](https://www.reddit.com/r/GracepointChurch/comments/v6cbgw/youre_considering_leaving_gracepoint_now_what_5/)
+- [🔗The Experience of Leaving GP](https://www.reddit.com/r/GracepointChurch/comments/s7dc3h/the_experience_of_leaving_gp/)
+- More articles on the [🔗/r/GracepointChurch wiki](https://www.reddit.com/r/GracepointChurch/wiki/analysis/)

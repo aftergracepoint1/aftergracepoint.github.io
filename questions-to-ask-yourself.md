@@ -47,13 +47,13 @@ Consider the priorities and values of the church, not just by what it reflected 
 
 # Further reading
 
-- [GP Top-Down Leadership Structure and Spiritual Abuse](https://www.reddit.com/r/GracepointChurch/comments/s8y8ks/gp_topdown_leadership_structure_and_spiritual/)
-- [Why it sucks to be a woman at Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/mm6u24/why_it_sucks_to_be_a_woman_at_gracepoint/)
-- [A Note I Wrote for Myself](https://www.reddit.com/r/GracepointChurch/comments/xpvp71/a_note_i_wrote_for_myself/)
-- [The GP 100](https://www.reddit.com/r/GracepointChurch/comments/w9fzcc/the_gp_100/)
-- [Stephen & Oscar's Letter to Gracepoint Davis](https://www.reddit.com/r/GracepointChurch/comments/pj3s48/stephen_and_oscars_letter_leaving_gracepoint_davis/)
-- [Pastor Ed's Letter to Becky (his former Pastor)](https://www.reddit.com/r/GracepointChurch/comments/nkbx1r/eds_letter_to_becky_2005_after_discussion_with/)
-- [GP Under the Hood](https://www.reddit.com/r/GracepointChurch/comments/uiqcrk/gp_under_the_hood/)
-- [Unpacking the guilt handbook](https://www.reddit.com/r/GracepointChurch/comments/x55gnw/unpacking_the_guilt_handbook/)
-- [An open Letter to Pastor Daniel on my experiences while attending Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/wpdsbd/an_open_letter_to_pastor_daniel_on_my_experiences/)
-- More articles on the [/r/GracepointChurch wiki](https://www.reddit.com/r/GracepointChurch/wiki/analysis/)
+- [🔗GP Top-Down Leadership Structure and Spiritual Abuse](https://www.reddit.com/r/GracepointChurch/comments/s8y8ks/gp_topdown_leadership_structure_and_spiritual/)
+- [🔗Why it sucks to be a woman at Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/mm6u24/why_it_sucks_to_be_a_woman_at_gracepoint/)
+- [🔗A Note I Wrote for Myself](https://www.reddit.com/r/GracepointChurch/comments/xpvp71/a_note_i_wrote_for_myself/)
+- [🔗The GP 100](https://www.reddit.com/r/GracepointChurch/comments/w9fzcc/the_gp_100/)
+- [🔗Stephen & Oscar's Letter to Gracepoint Davis](https://www.reddit.com/r/GracepointChurch/comments/pj3s48/stephen_and_oscars_letter_leaving_gracepoint_davis/)
+- [🔗Pastor Ed's Letter to Becky (his former Pastor)](https://www.reddit.com/r/GracepointChurch/comments/nkbx1r/eds_letter_to_becky_2005_after_discussion_with/)
+- [🔗GP Under the Hood](https://www.reddit.com/r/GracepointChurch/comments/uiqcrk/gp_under_the_hood/)
+- [🔗Unpacking the guilt handbook](https://www.reddit.com/r/GracepointChurch/comments/x55gnw/unpacking_the_guilt_handbook/)
+- [🔗An open Letter to Pastor Daniel on my experiences while attending Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/wpdsbd/an_open_letter_to_pastor_daniel_on_my_experiences/)
+- More articles on the [🔗/r/GracepointChurch wiki](https://www.reddit.com/r/GracepointChurch/wiki/analysis/)
