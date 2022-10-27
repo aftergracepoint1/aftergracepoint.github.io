@@ -24,4 +24,4 @@ The following are news articles written by various media outlets covering Gracep
 
 > Various journalists, Asian American writers, pastors, and advocates against abuse have also responded on social media.
 
-> 👉 [The Response on Social Media](https://www.reddit.com/r/GracepointChurch/comments/xqm7vr/the_response_on_social_media/)
+> 👉 [The Response on Social Media🔗](https://www.reddit.com/r/GracepointChurch/comments/xqm7vr/the_response_on_social_media/)
