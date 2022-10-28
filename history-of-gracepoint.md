@@ -1,7 +1,7 @@
 ---
 layout: page
 title: History of Gracepoint
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/e1Q1dLn.png
 ---
 
 *This history is provided to give context when understanding how the church came to be what it is today. We have done our best to ensure this article's correctness, but there are certain parts that still need further corroboration. Please contact the team via Discord or reddit to help contribute with any corrections or additions.*

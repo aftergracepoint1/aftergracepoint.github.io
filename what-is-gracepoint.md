@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is Gracepoint?
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/kOcuPl4.jpg
 ---
 
 Gracepoint started in 1991 as Berkland Baptist Church in Berkeley, California, as a church in the Southern Baptist Convention denomination. The church changed its name to Gracepoint in 2006 when Ed and Kelly Kang split from the founders. Gracepoint has since expanded to ~100 sites, primarily in college towns.

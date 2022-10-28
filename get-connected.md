@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get Connected
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/sYEhj4M.jpg
 ---
 
 Whether you’re just checking out Gracepoint, been a member for years, or have already left, there's a place for you. 
