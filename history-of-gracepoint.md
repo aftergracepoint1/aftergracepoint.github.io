@@ -25,13 +25,13 @@ Becky Kim was intimately involved in many details of running all the BBC churche
 
 The ministries that got started or were present during this time at Berkeley include:
 
-1. College ministry (known as KBSK - Korean Baptist Student Koinonia)
+1. College ministry (known as KBSU, ABSU, or KBSK, depending on the year)
 2. Children’s ministry (Joyland)
 3. Youth mentoring (ImpACT)
 4. Young Adult Ministry
 5. International Student Ministry
 
-College ministry in particular grew very quickly, and soon multiple separate groups were created, which became A2F, Koinonia, Praxis, etc.
+College ministry in particular grew very quickly, moving from 100 GPBB to the huge lecture hall at VLSB. Soon multiple separate groups were created, which became A2F, Koinonia, Praxis, etc.
 
 During this time, Becky was revered and spoke at many retreats at Berkland Berkeley as a special guest. She would lead Bible studies and give sermons that were 2-3 hours in length. She would openly rebuke some leaders during her Bible studies and they seemed honored to be "loved" by her in this way. Ed and Kelly Kang and most of the leaders spoke of her highly and looked up to her, almost as one who could do no wrong.
 

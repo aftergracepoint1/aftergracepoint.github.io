@@ -8,9 +8,9 @@ Gracepoint leadership is well-aware of criticisms of their church. Gracepoint le
 
 For many at Gracepoint, it's frustrating to feel that personal grievances from years (or even decades) ago are being used to cripple present-day ministry and demoralize staff. Making things worse is that this is all taking place on the internet, where it's near-impossible to tell libel from fact, and things are frequently taken out of context.
 
-For those on the other side, it's frustrating to see seemingly obvious systemic issues be continually downplayed by leadership as individual wrongdoings, or dismissed altogether. Many on this side sincerely want the church to thrive, but believe big core changes need to happen first.
+For those on the other side, it's frustrating to see seemingly obvious systemic issues be continually downplayed by leadership as individual wrongdoings or dismissed altogether. Many on this side sincerely want the church to thrive, but believe big core changes need to happen first.
 
-As mentioned elsewhere, the purpose of this site is not to reform Gracepoint, and any analysis of the responses feels out of our scope.
+As mentioned elsewhere, the purpose of this site is not to reform Gracepoint, and any further analysis of the responses feels out of our scope.
 
 Thus, we will simply provide links to responses from both sides and allow the reader to judge for themselves.
 

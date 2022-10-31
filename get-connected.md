@@ -16,8 +16,6 @@ The two main ways to get connected are:
 
 2. [🔗After Gracepoint Discord](https://discord.gg/shUNTVqKp8): An online chat room. If you just want to casually talk, this is your best bet. 
 
-Both Reddit and Discord are anonymous platforms. As long as you don’t share your real name, you will remain fully anonymous.
-
 3. [🔗Sisters Only Facebook Group](https://www.reddit.com/r/GracepointChurch/comments/xbsx3n/sisters_there_is_a_safety_net_for_you_now/): An invite-only support group run by Lillian Chung with about ____ members. This group is limited to women who left during their post-grad years, since post-grad experience is so different from the student experience.
 
 ![](https://i.imgur.com/2YKhOPr.jpg)
