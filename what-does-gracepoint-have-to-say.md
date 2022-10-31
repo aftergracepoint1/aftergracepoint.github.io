@@ -4,7 +4,11 @@ title: What does Gracepoint have to say?
 cover-img: https://i.imgur.com/8NST1SQ.jpg
 ---
 
-Gracepoint is well-aware of its criticisms and has made a lot of effort to respond to them publicly. It is admirable that they take feedback seriously, and we hope that constructive conversations may continue between the church and individuals.
+Gracepoint leadership is well-aware of criticisms of their church. Gracepoint leaders have gone through great effort to respond to criticism publicly, both as public statements on their official website as well as posting on reddit as individuals. Over the years, Gracepoint has readily acknowledged that hurts have been done, but considers them the result of individual lapses in judgment (due to a lack of training or simply human sinfulness) rather than systemic issues that necessitate systemic change. On the other hand, many who have been hurt at Gracepoint believe that the parallels between other people's stories and their own suggest issues are systemic in nature. 
+
+For many at Gracepoint, it's frustrating to feel that personal grievances from years (or even decades) ago are being used to cripple present-day ministry and demoralize staff. Making things worse is that this is all taking place on the internet, where it's near-impossible to tell libel from fact, and things are frequently taken out of context.
+
+For those on the other side, it's frustrating to see seemingly obvious systemic issues be continually downplayed by leadership as individual wrongdoings, or dismissed altogether. Many on this side sincerely want the church to thrive, but believe big core changes need to happen first.
 
 As mentioned elsewhere, the purpose of this site is not to reform Gracepoint, and any analysis of the responses feels out of our scope.
 
