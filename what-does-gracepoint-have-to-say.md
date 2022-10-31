@@ -4,7 +4,7 @@ title: What does Gracepoint have to say?
 cover-img: https://i.imgur.com/8NST1SQ.jpg
 ---
 
-# Gracepoint is well-aware of criticisms
+## Gracepoint is well-aware of criticisms
 
 Gracepoint leadership is well-aware of criticisms of their church. Gracepoint leaders have gone through great effort to respond to criticism publicly, both as public statements on their official website as well as posting on reddit as individuals. Over the years, Gracepoint has readily acknowledged that hurts have been done, but considers them the result of individual lapses in judgment (due to a lack of training or simply human sinfulness) rather than systemic issues that necessitate systemic change. On the other hand, many who have been hurt at Gracepoint believe that the parallels between other people's stories and their own suggest issues are systemic in nature. 
 
@@ -16,13 +16,13 @@ As mentioned elsewhere, the purpose of this site is not to reform Gracepoint, an
 
 Thus, we will simply provide links to responses from both sides and allow the reader to judge for themselves.
 
-# Gracepoint's responses to criticisms
+## Gracepoint's responses to criticisms
 - [🔗Pastor Ed Kang: Our Response to the Recent Christianity Today Article](https://www.reddit.com/r/GracepointChurch/comments/xlgb9g/ed_kangs_response/)
 - [🔗Pastor Daniel Kim: A plea from Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/syzdcr/a_plea_from_gracepoint/)
 - [🔗A Note from a GP College Staff](https://www.reddit.com/r/GracepointChurch/comments/xmax3m/a_note_from_a_gp_college_staff/)
 - [🔗Living through the CT Article -- from a current GP member.](https://www.reddit.com/r/GracepointChurch/comments/y9ixnk/living_through_the_ct_article_from_a_current_gp/)
 
-# Discussions about those responses
+## Discussions about those responses
 - [🔗A Plea to Gracepoint Leaders](https://www.reddit.com/r/GracepointChurch/comments/xq2o3x/a_plea_to_gracepoint_leaders/)
 - [🔗A plea from all of us](https://www.reddit.com/r/GracepointChurch/comments/t1ugde/a_plea_from_all_of_us/)
 - [🔗GP admission by silence](https://www.reddit.com/r/GracepointChurch/comments/xpmvgf/gp_admission_by_silen)
