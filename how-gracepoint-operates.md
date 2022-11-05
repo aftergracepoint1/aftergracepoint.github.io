@@ -130,8 +130,7 @@ Where does this come from? Perhaps it is simply pride, or perhaps it is envy tha
 
 Whatever the reasons may be, it's undeniable that the feeling of being "better" than other churches exists quite tangibly.
 
-> 👉 Continue to next article: [History of Gracepoint](history-of-gracepoint.md)
-
+> 👉 Continue to next article: [Gracepoint Churches](gracepoint-churches.md)
 
 # Further Reading
 
