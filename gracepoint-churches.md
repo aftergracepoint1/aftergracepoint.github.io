@@ -9,7 +9,7 @@ Gracepoint's ministry model emphasizes training "anyone and everyone" into lay-l
 # Churches
 
 Gracepoint's network of collegiate churches spans across **70 campuses**. The most up-to-date list of church plants can be found on the official Gracepoint website:
-> 👉 [Gracepoint Online: Find a Ministry](https://www.gracepointonline.org/find-a-ministry)
+> 👉 [Gracepoint Online: Find a Ministry](https://www.gracepointonline.org/find-a-ministry){:target="_blank"}
 
 <!-- 
 | UC Berkeley <br/>Lead Pastor: Ed Kang | UC Davis<br/>Lead Pastor: Ed Kang | UCLA<br/>Lead Pastor: Ed Kang |
