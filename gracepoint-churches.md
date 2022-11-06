@@ -38,15 +38,52 @@ Gracepoint's ministry model emphasizes training "anyone and everyone" into lay-l
 | University of Michigan, Ann Arbor<br/>Lead Pastor: Ed Kang | New York University (NYU)<br/>Lead Pastor: Ed Kang | Stanford University<br/>Lead Pastor: Ed Kang |
 | Purdue University<br/>Lead Pastor: Ed Kang | University of Wisconson, Madison<br/>Lead Pastor: Ed Kang | |
 
-# Campus Groups
+# Main Ministry Groups
 
 Ministry groups are frequently reorganized and rebranded. The following list is a list of all known Gracepoint group names. Some campuses have only 2-3 of these groups, while other campuses such as UC Berkeley have over 20.
 
-(wip)
+| ![](https://i.imgur.com/KAN06B1.png) | Acts 2 Fellowship (A2F) |
+| ![](https://i.imgur.com/BPvzkow.png) | Klesis |
+| ![](https://i.imgur.com/5Gr1J33.png) | International Graduate Student Ministry (IGSM) |
+| ![](https://i.imgur.com/tkmRZBe.png) | International Undergraduate Student Ministry (IUSM/ISM) |
+| ![](https://i.imgur.com/DgQRSZl.png) | MakeNew |
+| ![](https://i.imgur.com/FnNtWOg.png) | Area Youth Ministry (AYM) |
+| ![](https://i.imgur.com/FnNtWOg.png) | Advanced Mentorship Program (AMP) |
+| ![](https://i.imgur.com/eE84LqD.png) | Impact |
+| ![](https://i.imgur.com/7besEN6.png) | Interhigh |
+| ![](https://i.imgur.com/zYIrlJT.png) | Elderly Care Ministry |
+| ![](https://i.imgur.com/CDnl9M3.png) | Visiting Scholars Ministry (VSM) |
+| ![](https://i.imgur.com/SsKtLkB.png) | 5&2 Compassion Ministry |
 
-| ![](https://i.imgur.com/IZmRrlI.png) | Acts 2 Fellowship (A2F) |
-| ![](https://i.imgur.com/IZmRrlI.png) | Klesis |
-| ![](https://i.imgur.com/IZmRrlI.png) | International Graduate Student Ministry (IGSM) |
+# Additional Ministry Groups
+
+| Bay Area Mentors |
+| International Student Mentorship Program (ISMP) |
+| Give Love |
+| Cal MENtorship |
+| With A Vision (WAV) |
+| Open Door Mentorship |
+| Come One and Come Ball |
+| Graduate Student Fellowship (GSF) |
+| Recreate Berkeley |
+| Alpha Koinonia |
+| Acts2Campus (Acts2CN) Network |
+| Salesforce@UC Berkeley |
+
+# Past Ministry Groups
+
+| Koinonia |
+| Latino Christian Fellowship (LCF) |
+| Alethia |
+| Kairos |
+| International Student Fellowship (ISF) |
+| Crosstalk |
+| Third Space |
+| 4Corners |
+| Asian Baptist Student Koinonia (ABSK) |
+| Berkland Baptist Church (BBC) |
+| Korean Baptist Student Koinonia (KBSK) |
+| Korean Baptist Student Union (KBSU) |
 
 > 👉 Continue to next article: [History of Gracepoint](history-of-gracepoint.md)
 
