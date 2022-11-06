@@ -8,8 +8,10 @@ Gracepoint's ministry model emphasizes training "anyone and everyone" into lay-l
 
 # Churches
 
-(wip)
+Gracepoint's network of collegiate churches spans across 70 campuses. The most up-to-date list of church plants can be found on the official Gracepoint website:
+> 👉 [Gracepoint Online: Find a Ministry](https://www.gracepointonline.org/find-a-ministry)
 
+<!-- 
 | UC Berkeley <br/>Lead Pastor: Ed Kang | UC Davis<br/>Lead Pastor: Ed Kang | UCLA<br/>Lead Pastor: Ed Kang |
 | UC Santa Cruz<br/>Lead Pastor: Ed Kang | UC San Diego<br/>Lead Pastor: Ed Kang | UC Irvine<br/>Lead Pastor: Ed Kang |
 | UC Santa Barbara<br/>Lead Pastor: Ed Kang | UC Riverside<br/>Lead Pastor: Ed Kang | UC Merced<br/>Lead Pastor: Ed Kang |
@@ -18,8 +20,7 @@ Gracepoint's ministry model emphasizes training "anyone and everyone" into lay-l
 | Seattle University<br/>Lead Pastor: Ed Kang | Princeton University<br/>Lead Pastor: Ed Kang | Northwestern University<br/>Lead Pastor: Ed Kang |
 | University of Chicago<br/>Lead Pastor: Ed Kang | Azusa Pacific University (APU)<br/>Lead Pastor: Ed Kang | California Institute of Technology (CalTech)<br/>Lead Pastor: Ed Kang |
 | Boston University (BU)<br/>Lead Pastor: Ed Kang | Carnegie Mellon University (CMU)<br/>Lead Pastor: Ed Kang | San Jose State University (SJSU)<br/>Lead Pastor: Ed Kang |
-| Santa Clara University (SCU)<br/>Lead Pastor: Ed Kang | University of Maryland, College Park (UMD)<br/>Lead Pastor: Ed Kang | University of North Carolina, Chapel Hill (UNC)
-<br/>Lead Pastor: Ed Kang |
+| Santa Clara University (SCU)<br/>Lead Pastor: Ed Kang | University of Maryland, College Park (UMD)<br/>Lead Pastor: Ed Kang | University of North Carolina, Chapel Hill (UNC)<br/>Lead Pastor: Ed Kang |
 | Rutgers<br/>Lead Pastor: Ed Kang | North Carolina State University (NCSU)<br/>Lead Pastor: Ed Kang | Georgetown University<br/>Lead Pastor: Ed Kang |
 | George Mason University (GMU)<br/>Lead Pastor: Ed Kang | George Washington University (GW)<br/>Lead Pastor: Ed Kang | American University<br/>Lead Pastor: Ed Kang |
 | University of Virginia (UVA)<br/>Lead Pastor: Ed Kang | San Francisco State University (SFSU)<br/>Lead Pastor: Ed Kang | University of San Francisco (USF)<br/>Lead Pastor: Ed Kang |
@@ -36,7 +37,7 @@ Gracepoint's ministry model emphasizes training "anyone and everyone" into lay-l
 | Tufts University<br/>Lead Pastor: Ed Kang | Babson College<br/>Lead Pastor: Ed Kang | Brandeis University<br/>Lead Pastor: Ed Kang |
 | Wellesley University<br/>Lead Pastor: Ed Kang | Bentley University<br/>Lead Pastor: Ed Kang | Johns Hopkins University<br/>Lead Pastor: Ed Kang |
 | University of Michigan, Ann Arbor<br/>Lead Pastor: Ed Kang | New York University (NYU)<br/>Lead Pastor: Ed Kang | Stanford University<br/>Lead Pastor: Ed Kang |
-| Purdue University<br/>Lead Pastor: Ed Kang | University of Wisconson, Madison<br/>Lead Pastor: Ed Kang | |
+| Purdue University<br/>Lead Pastor: Ed Kang | University of Wisconson, Madison<br/>Lead Pastor: Ed Kang | | -->
 
 # Main Ministry Groups
 
@@ -48,7 +49,6 @@ Ministry groups are frequently reorganized and rebranded. The following list is 
 | ![](https://i.imgur.com/tkmRZBe.png) | International Undergraduate Student Ministry (IUSM/ISM) |
 | ![](https://i.imgur.com/DgQRSZl.png) | MakeNew |
 | ![](https://i.imgur.com/FnNtWOg.png) | Area Youth Ministry (AYM) |
-| ![](https://i.imgur.com/FnNtWOg.png) | Advanced Mentorship Program (AMP) |
 | ![](https://i.imgur.com/eE84LqD.png) | Impact |
 | ![](https://i.imgur.com/7besEN6.png) | Interhigh |
 | ![](https://i.imgur.com/zYIrlJT.png) | Elderly Care Ministry |
@@ -57,8 +57,11 @@ Ministry groups are frequently reorganized and rebranded. The following list is 
 
 # Additional Ministry Groups
 
+| Advanced Mentorship Program (AMP) |
 | Bay Area Mentors |
 | International Student Mentorship Program (ISMP) |
+| Element |
+| Joyland |
 | Give Love |
 | Cal MENtorship |
 | With A Vision (WAV) |
