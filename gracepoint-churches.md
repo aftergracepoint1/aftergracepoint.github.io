@@ -8,7 +8,7 @@ Gracepoint's ministry model emphasizes training "anyone and everyone" into lay-l
 
 # Churches
 
-Gracepoint's network of collegiate churches spans across 70 campuses. The most up-to-date list of church plants can be found on the official Gracepoint website:
+Gracepoint's network of collegiate churches spans across **70 campuses**. The most up-to-date list of church plants can be found on the official Gracepoint website:
 > 👉 [Gracepoint Online: Find a Ministry](https://www.gracepointonline.org/find-a-ministry)
 
 <!-- 
@@ -39,21 +39,23 @@ Gracepoint's network of collegiate churches spans across 70 campuses. The most u
 | University of Michigan, Ann Arbor<br/>Lead Pastor: Ed Kang | New York University (NYU)<br/>Lead Pastor: Ed Kang | Stanford University<br/>Lead Pastor: Ed Kang |
 | Purdue University<br/>Lead Pastor: Ed Kang | University of Wisconson, Madison<br/>Lead Pastor: Ed Kang | | -->
 
+
 # Main Ministry Groups
 
 Ministry groups are frequently reorganized and rebranded. The following list is a list of all known Gracepoint group names. Some campuses have only 2-3 of these groups, while other campuses such as UC Berkeley have over 20.
 
 | ![](https://i.imgur.com/KAN06B1.png) | Acts 2 Fellowship (A2F) |
-| ![](https://i.imgur.com/BPvzkow.png) | Klesis |
-| ![](https://i.imgur.com/5Gr1J33.png) | International Graduate Student Ministry (IGSM) |
+| ![](https://i.imgur.com/AwqOV3f.png) | Klesis |
+| ![](https://i.imgur.com/sOhBvoq.png) | International Graduate Student Ministry (IGSM) |
 | ![](https://i.imgur.com/tkmRZBe.png) | International Undergraduate Student Ministry (IUSM/ISM) |
 | ![](https://i.imgur.com/DgQRSZl.png) | MakeNew |
-| ![](https://i.imgur.com/FnNtWOg.png) | Area Youth Ministry (AYM) |
+| ![](https://i.imgur.com/gyUH42w.png) | Area Youth Ministry (AYM) |
 | ![](https://i.imgur.com/eE84LqD.png) | Impact |
 | ![](https://i.imgur.com/7besEN6.png) | Interhigh |
 | ![](https://i.imgur.com/zYIrlJT.png) | Elderly Care Ministry |
 | ![](https://i.imgur.com/CDnl9M3.png) | Visiting Scholars Ministry (VSM) |
 | ![](https://i.imgur.com/SsKtLkB.png) | 5&2 Compassion Ministry |
+
 
 # Additional Ministry Groups
 
@@ -73,6 +75,7 @@ Ministry groups are frequently reorganized and rebranded. The following list is 
 | Acts2Campus (Acts2CN) Network |
 | Salesforce@UC Berkeley |
 
+
 # Past Ministry Groups
 
 | Koinonia |
@@ -87,6 +90,7 @@ Ministry groups are frequently reorganized and rebranded. The following list is 
 | Berkland Baptist Church (BBC) |
 | Korean Baptist Student Koinonia (KBSK) |
 | Korean Baptist Student Union (KBSU) |
+
 
 > 👉 Continue to next article: [History of Gracepoint](history-of-gracepoint.md)
 
