@@ -48,7 +48,7 @@ Ministry groups are frequently reorganized and rebranded. The following list is 
 | ![](https://i.imgur.com/AwqOV3f.png) | Klesis |
 | ![](https://i.imgur.com/sOhBvoq.png) | International Graduate Student Ministry (IGSM) |
 | ![](https://i.imgur.com/tkmRZBe.png) | International Undergraduate Student Ministry (IUSM/ISM) |
-| ![](https://i.imgur.com/DgQRSZl.png) | MakeNew |
+| ![](https://i.imgur.com/2G6iakP.png) | MakeNew |
 | ![](https://i.imgur.com/gyUH42w.png) | Area Youth Ministry (AYM) |
 | ![](https://i.imgur.com/eE84LqD.png) | Impact |
 | ![](https://i.imgur.com/7besEN6.png) | Interhigh |

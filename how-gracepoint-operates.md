@@ -134,7 +134,7 @@ Whatever the reasons may be, it's undeniable that the feeling of being "better" 
 
 # Further Reading
 
-- [🔗A Discussion of Gracepoint Church’s Model by an Ex-Staff](https://www.reddit.com/r/GracepointChurch/comments/t04yw2/a_discussion_of_gracepoint_churchs_model_by_an/)
-- [🔗Gracepoint and the Green Eyed Monster](https://www.reddit.com/r/GracepointChurch/comments/vnvqd6/gracepoint_and_the_green_eyed_monster/)
-- [🔗The GP Experience: College v. Postgrad](https://www.reddit.com/r/GracepointChurch/comments/twmbjn/the_gp_experience_college_v_postgrad/)
-- [🔗Ministry vs Family at GP](https://www.reddit.com/r/GracepointChurch/comments/nhl0ww/ministry_vs_family_at_gp/)
+- [🔗A Discussion of Gracepoint Church’s Model by an Ex-Staff](https://www.reddit.com/r/GracepointChurch/comments/t04yw2/a_discussion_of_gracepoint_churchs_model_by_an/){:target="_blank"}
+- [🔗Gracepoint and the Green Eyed Monster](https://www.reddit.com/r/GracepointChurch/comments/vnvqd6/gracepoint_and_the_green_eyed_monster/){:target="_blank"}
+- [🔗The GP Experience: College v. Postgrad](https://www.reddit.com/r/GracepointChurch/comments/twmbjn/the_gp_experience_college_v_postgrad/){:target="_blank"}
+- [🔗Ministry vs Family at GP](https://www.reddit.com/r/GracepointChurch/comments/nhl0ww/ministry_vs_family_at_gp/){:target="_blank"}

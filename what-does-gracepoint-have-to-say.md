@@ -17,14 +17,14 @@ As mentioned elsewhere, the purpose of this site is not to reform Gracepoint, an
 Thus, we will simply provide links to responses from both sides and allow the reader to judge for themselves.
 
 ## Gracepoint's responses to criticisms
-- [🔗Pastor Ed Kang: Our Response to the Recent Christianity Today Article](https://www.reddit.com/r/GracepointChurch/comments/xlgb9g/ed_kangs_response/)
-- [🔗Pastor Daniel Kim: A plea from Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/syzdcr/a_plea_from_gracepoint/)
-- [🔗A Note from a GP College Staff](https://www.reddit.com/r/GracepointChurch/comments/xmax3m/a_note_from_a_gp_college_staff/)
-- [🔗Living through the CT Article -- from a current GP member.](https://www.reddit.com/r/GracepointChurch/comments/y9ixnk/living_through_the_ct_article_from_a_current_gp/)
+- [🔗Pastor Ed Kang: Our Response to the Recent Christianity Today Article](https://www.reddit.com/r/GracepointChurch/comments/xlgb9g/ed_kangs_response/){:target="_blank"}
+- [🔗Pastor Daniel Kim: A plea from Gracepoint](https://www.reddit.com/r/GracepointChurch/comments/syzdcr/a_plea_from_gracepoint/){:target="_blank"}
+- [🔗A Note from a GP College Staff](https://www.reddit.com/r/GracepointChurch/comments/xmax3m/a_note_from_a_gp_college_staff/){:target="_blank"}
+- [🔗Living through the CT Article -- from a current GP member.](https://www.reddit.com/r/GracepointChurch/comments/y9ixnk/living_through_the_ct_article_from_a_current_gp/){:target="_blank"}
 
 ## Discussions about those responses
-- [🔗A Plea to Gracepoint Leaders](https://www.reddit.com/r/GracepointChurch/comments/xq2o3x/a_plea_to_gracepoint_leaders/)
-- [🔗A plea from all of us](https://www.reddit.com/r/GracepointChurch/comments/t1ugde/a_plea_from_all_of_us/)
-- [🔗GP admission by silence](https://www.reddit.com/r/GracepointChurch/comments/xpmvgf/gp_admission_by_silen)
-- [🔗The Problem with "No Church Is Perfect"](https://www.reddit.com/r/GracepointChurch/comments/tyier2/the_problem_with_no_church_is_perfect/)
-- [🔗Whose Fault is it Anyway? (The Bridge Analogy)](https://www.reddit.com/r/GracepointChurch/comments/y6jyuu/whose_fault_is_it_anyway_the_bridge_analogy/)
+- [🔗A Plea to Gracepoint Leaders](https://www.reddit.com/r/GracepointChurch/comments/xq2o3x/a_plea_to_gracepoint_leaders/){:target="_blank"}
+- [🔗A plea from all of us](https://www.reddit.com/r/GracepointChurch/comments/t1ugde/a_plea_from_all_of_us/){:target="_blank"}
+- [🔗GP admission by silence](https://www.reddit.com/r/GracepointChurch/comments/xpmvgf/gp_admission_by_silen){:target="_blank"}
+- [🔗The Problem with "No Church Is Perfect"](https://www.reddit.com/r/GracepointChurch/comments/tyier2/the_problem_with_no_church_is_perfect/){:target="_blank"}
+- [🔗Whose Fault is it Anyway? (The Bridge Analogy)](https://www.reddit.com/r/GracepointChurch/comments/y6jyuu/whose_fault_is_it_anyway_the_bridge_analogy/){:target="_blank"}
