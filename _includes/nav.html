@@ -18,12 +18,12 @@
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link[0] }}</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               {%- for childlink in link[1] -%}
-                {%- for linkparts in childlink %}
-                  {% if linkparts[0] contains "https" }
+                {%- for linkparts in childlink -%}
+                  {-% if linkparts[0] contains "https" -%}
                     <a class="dropdown-item" target="_blank" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                  {% else %}
+                  {-% else -%}
                     <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
-                  {% endif %}
+                  {-% endif -%}
                 {%- endfor -%}
               {%- endfor %}
             </div>
