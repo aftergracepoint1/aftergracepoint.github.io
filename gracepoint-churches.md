@@ -92,6 +92,7 @@ Ministry groups are frequently reorganized and rebranded. The following list is 
 | Korean Baptist Student Union (KBSU) |
 
 
+
 > 👉 Continue to next article: [History of Gracepoint](history-of-gracepoint.md)
 
 
