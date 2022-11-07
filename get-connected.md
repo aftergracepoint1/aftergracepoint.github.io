@@ -10,4 +10,6 @@ Whether you’re just checking out Gracepoint, been a member for years, or have 
 2. [🔗After Gracepoint Discord](https://discord.gg/shUNTVqKp8){:target="_blank"}: An online chatroom. If you just want to casually chat, this is your best bet.
 3. [🔗Sisters Only Facebook Group](https://www.reddit.com/r/GracepointChurch/comments/xbsx3n/sisters_there_is_a_safety_net_for_you_now/){:target="_blank"}: An invite-only support group run by Lillian Chung with 50+ members. This group is limited to women who left during their post-grad years, since post-grad experience is so different from the student experience.
 
+If you have feedback/ideas for this site, see the [After Gracepoint Feedback & Ideas](https://app.loopedin.io/after-gracepoint) board.
+
 ![](https://i.imgur.com/2YKhOPr.jpg)
