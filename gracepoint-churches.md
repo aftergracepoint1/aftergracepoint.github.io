@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gracepoint Churches
+title: Gracepoint Churches & Ministry Groups
 cover-img: https://i.imgur.com/bPYGF78.jpg
 ---
 
@@ -46,7 +46,7 @@ Ministry groups are frequently reorganized and rebranded. The following list is 
 
 | ![](https://i.imgur.com/KAN06B1.png) | Acts 2 Fellowship (A2F) |
 | ![](https://i.imgur.com/AwqOV3f.png) | Klesis |
-[ ![](https://i.imgur.com/DLXivsq.png) | Kairos |
+| ![](https://i.imgur.com/DLXivsq.png) | Kairos |
 | ![](https://i.imgur.com/sOhBvoq.png) | International Graduate Student Ministry (IGSM) |
 | ![](https://i.imgur.com/tkmRZBe.png) | International Undergraduate Student Ministry (IUSM/ISM) |
 | ![](https://i.imgur.com/2G6iakP.png) | MakeNew |
