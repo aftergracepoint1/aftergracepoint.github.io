@@ -35,6 +35,7 @@ This site was created by former Gracepoint members and staff. We speak from year
 
 ### Contact Us
 
-If you want to connect with others, see the [Get Connected](get-connected.md) tab.
-If you have feedback/ideas for this site, see the [After Gracepoint Feedback & Ideas](https://app.loopedin.io/after-gracepoint) board.
+- If you want to connect with others, see the [Get Connected](get-connected.md) tab.
+- Post feedback here: [After Gracepoint Feedback](https://app.loopedin.io/after-gracepoint#/feedback)
+- Post new ideas here: [After Gracepoint Ideas](https://app.loopedin.io/after-gracepoint#/ideas)
 
