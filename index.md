@@ -1,7 +1,7 @@
 ---
 layout: page
 title: After Gracepoint
-cover-img: https://i.imgur.com/TpoVjHb.jpg
+cover-img: https://i.imgur.com/q6IpkqH.jpg
 ---
 
 ### Who is this site for?
